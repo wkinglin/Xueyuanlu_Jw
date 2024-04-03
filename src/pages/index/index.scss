@@ -1,0 +1,45 @@
+/**index.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 100rpx 0;
+  box-sizing: border-box;
+} 
+
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.unity-img {
+  width: 160rpx;
+  height: 160rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.unity-name {
+  color: rgb(0, 0, 0);
+  margin-bottom: 60rpx;
+}
+
+.mybtn {
+  width: 300rpx
+}
+
+.window {
+  background-color: #fff;
+  padding: 20rpx;
+  border: dotted 5rpx lightblue;
+}
+
+.footer {
+  position: fixed;
+  bottom: 20rpx;
+  left: 200rpx;
+}
+
