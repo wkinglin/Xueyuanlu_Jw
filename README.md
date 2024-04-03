@@ -1,6 +1,6 @@
 # Xueyuanlu_Jw
 
-从github库中pull前端代码，
+从github库中pull前端代码
 npm install安装所需包
 如果没有taro https://docs.taro.zone/docs/GETTING-STARTED
 如果没有nutui https://nutui.jd.com/#/
